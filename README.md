@@ -1,15 +1,7 @@
 
 ## coding challenge
 
-|
-|
-| + (1, 4)               +(4, 4)
-|
-|
-|               +(3, 2)
-|                    
-|                                        + (5, 1)
-+---------------------------------------------------------
+![Problem statement](./example-points.png)
 
 
 Design an application that, given a set of coordinates [(x1, y1), ....... (xn, yn)], determine:
