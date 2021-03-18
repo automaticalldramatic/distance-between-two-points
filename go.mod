@@ -1,3 +1,3 @@
-module github.com/automaticalldramatic/expertlead
+module github.com/automaticalldramatic/distance-between-two-points
 
 go 1.14
